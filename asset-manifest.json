@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Livescore/static/css/main.2ebe01f4.chunk.css",
+    "main.js": "/Livescore/static/js/main.4a7a6636.chunk.js",
+    "main.js.map": "/Livescore/static/js/main.4a7a6636.chunk.js.map",
+    "runtime-main.js": "/Livescore/static/js/runtime-main.096ec9c4.js",
+    "runtime-main.js.map": "/Livescore/static/js/runtime-main.096ec9c4.js.map",
+    "static/js/2.24acf613.chunk.js": "/Livescore/static/js/2.24acf613.chunk.js",
+    "static/js/2.24acf613.chunk.js.map": "/Livescore/static/js/2.24acf613.chunk.js.map",
+    "static/js/3.ad6afbeb.chunk.js": "/Livescore/static/js/3.ad6afbeb.chunk.js",
+    "static/js/3.ad6afbeb.chunk.js.map": "/Livescore/static/js/3.ad6afbeb.chunk.js.map",
+    "index.html": "/Livescore/index.html",
+    "static/css/main.2ebe01f4.chunk.css.map": "/Livescore/static/css/main.2ebe01f4.chunk.css.map",
+    "static/js/2.24acf613.chunk.js.LICENSE.txt": "/Livescore/static/js/2.24acf613.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Livescore/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.096ec9c4.js",
+    "static/js/2.24acf613.chunk.js",
+    "static/css/main.2ebe01f4.chunk.css",
+    "static/js/main.4a7a6636.chunk.js"
+  ]
+}
